@@ -25,11 +25,5 @@ public class Escenario extends Banda implements Publico {
         this.hora = hora;
     }
     
-    public void cantar(){
-        System.out.println("lalalalalalala");
-    }
-
-    public void gritar(){
-        System.out.println("aaaaaaaaaaaaa");
-    }
+   
 }
